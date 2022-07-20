@@ -11,5 +11,5 @@ Back-end:
 ## Executando aplicação
 - Clone utilizando: "git clone (chave ssh do projeto)";
 - Dentro da pasta abra um terminal e use o comando npm install, (necessário ter o node instalado);
-- Para rodar todos os teste use "npm test";
+- Para rodar todos os testes use "npm test";
 - Para testar individualmente um arquivo basta escrever na frente o desejado, ex: "npm test circle";
